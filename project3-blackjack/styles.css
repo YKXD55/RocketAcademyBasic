@@ -85,6 +85,15 @@ button {
   margin: 20px auto;
   padding: 20px;
   width: 100%;
+  text-align: left;
+}
+
+#instructions {
+  background-color: lightgrey;
+  margin: 20px auto;
+  padding: 20px;
+  width: 100%;
+  text-align: center;
 }
 
 hr {
